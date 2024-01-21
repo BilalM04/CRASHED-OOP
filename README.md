@@ -2,6 +2,8 @@
 
 Welcome to CRASHED!, an educational car-dodging game built using the p5.js library. This game demonstrates the principles of object-oriented programming, specifically focusing on inheritance and polymorphism.
 
+**Try it out:** https://bilalm04.itch.io/crashed
+
 ## Overview
 
 CRASHED! is a simple yet engaging project that allows players to navigate a car through a dynamic environment filled with obstacles. The game is not just about dodging cars; it's also a showcase of how object-oriented design principles can be applied to create modular and scalable code.
