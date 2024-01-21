@@ -4,6 +4,13 @@ Welcome to CRASHED!, an educational car-dodging game built using the p5.js libra
 
 **Try it out:** https://bilalm04.itch.io/crashed
 
+![image](https://github.com/BilalM04/CRASHED-OOP/assets/77511892/1515bef7-fc13-4db2-aaa9-5438419c7a4f)
+![image](https://github.com/BilalM04/CRASHED-OOP/assets/77511892/629a38ad-a628-4c4a-8597-a55a7b2d9593)
+![image](https://github.com/BilalM04/CRASHED-OOP/assets/77511892/6b59803e-b674-4908-981c-be8b844e4f5d)
+
+
+
+
 ## Overview
 
 CRASHED! is a simple yet engaging project that allows players to navigate a car through a dynamic environment filled with obstacles. The game is not just about dodging cars; it's also a showcase of how object-oriented design principles can be applied to create modular and scalable code.
